@@ -1,4 +1,4 @@
-# patatap-clone
+# music-mania
 
 Press any key from A-Z to enjoy different sounds.
 
